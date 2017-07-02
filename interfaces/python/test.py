@@ -66,7 +66,7 @@ pdq.Report()
 
 comment = pdq.GetComment()
 
-print 'pdq.GetComment -> \"%s\"' % comment
+print('pdq.GetComment -> \"%s\"' % comment)
 
 #---------------------------------------------------------------------
 
